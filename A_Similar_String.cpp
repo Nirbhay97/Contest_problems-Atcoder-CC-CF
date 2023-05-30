@@ -4,6 +4,7 @@ using namespace std;
 //Nirbhay kumar
 
 
+
 void solve(){
     int n;
     cin >> n;
