@@ -11,6 +11,7 @@ void solve(){
     string a, b;
     cin >> a >> b;
 
+
     for(int i= 0; i < n; i++){
         if(a[i] == 'l' ) a[i] = '1';
         if(a[i] == 'o') a[i] = '0';
