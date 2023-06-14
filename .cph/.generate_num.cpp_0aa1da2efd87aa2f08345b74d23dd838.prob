@@ -1,0 +1,1 @@
+{"name":"Local: generate_num","url":"c:\\Users\\Nirbhay Kumar\\Projects_cpp\\helloworld\\generate_num.cpp","tests":[{"id":1686736725605,"input":"6\n5 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Nirbhay Kumar\\Projects_cpp\\helloworld\\generate_num.cpp","group":"local","local":true}
