@@ -12,7 +12,8 @@
         "list": "cpp",
         "string": "cpp",
         "vector": "cpp",
-        "valarray": "cpp"
+        "valarray": "cpp",
+        "algorithm": "cpp"
     },
     "cph.general.onceMaintainerMessage": false
 }
